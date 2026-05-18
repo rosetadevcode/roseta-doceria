@@ -21,7 +21,7 @@ botoesCard.forEach(function(botao) {
         const mensagemCodificada = encodeURIComponent(mensagem);
         
         // Monta o link do WhatsApp com a mensagem
-        const linkWhatsApp = `https://wa.me/5511974706294?text=${mensagemCodificada}`;
+        const linkWhatsApp = `https://wa.me/5511999999999?text=${mensagemCodificada}`;
         
         // Abre o WhatsApp em uma nova aba
         window.open(linkWhatsApp, '_blank');
